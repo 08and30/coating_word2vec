@@ -50,6 +50,19 @@ python -m pip install -r requirements.txt
 jupyter lab
 ```
 
+### ScienceDirect API
+
+`notebook/01_word2vec/02_word2vec.ipynb` は、ScienceDirect URLを取得するときに
+`SCIENCEDIRECT_API_KEY` 環境変数のAPIキーを使用します。APIキーをソースコードや
+ノートブックに書き込まないでください。
+
+PowerShellでは、Jupyterを起動する前に次のように設定します。
+
+```powershell
+$env:SCIENCEDIRECT_API_KEY = "取得したAPIキー"
+jupyter lab
+```
+
 学習済みモデル、大規模な中間生成物、実験結果はリポジトリに含めず、必要に応じて外部ストレージなどで管理してください。
 
 ## 開発時の注意
