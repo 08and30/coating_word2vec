@@ -1,0 +1,604 @@
+id,name,charactaristic,category_id
+1,rice starch,"A fine, white powder derived from rice, used as a thickener and stabilizer in food products.",1
+2,mung bean starch,"A starch extracted from mung beans, known for its use in transparent noodles and desserts.",1
+3,cellulose nanofiber,"A nanoscale material derived from cellulose, used for its strength and biocompatibility.",1
+4,agar,"A gelatinous substance obtained from seaweed, widely used as a gelling agent in food and microbiology.",1
+5,corn starch,"A starch derived from corn kernels, commonly used as a thickener in cooking and baking.",1
+6,potato starch,"A starch extracted from potatoes, used for its high water-binding capacity and thickening properties.",1
+7,cane starch,"A starch obtained from sugarcane, used in food and industrial applications.",1
+8,wheat starch,"A carbohydrate extracted from wheat, used in baking and as a thickener.",1
+9,kudzu starch,"A starch derived from the roots of kudzu plants, used in traditional Asian desserts.",1
+10,whey protein,"A high-quality protein derived from milk, known for its amino acid profile and digestibility.",2
+11,casein protein,"A slow-digesting milk protein, used in supplements and food products for sustained energy release.",2
+12,soy protein,"A plant-based protein derived from soybeans, widely used as a meat alternative and in supplements.",2
+13,alginate,"A polysaccharide extracted from brown algae, used as a gelling and thickening agent.",1
+14,hydroxypropylemethylcellulose,A cellulose derivative used as a thickener and emulsifier in food and pharmaceuticals.,4
+15,polylactic acid,"A biodegradable polymer derived from lactic acid, used in packaging and bioplastics.",4
+16,aloe vera,"A plant extract known for its hydrating and soothing properties, used in cosmetics and health products.",4
+17,collagen,"A structural protein found in connective tissues, used in cosmetics and health supplements.",2
+18,guar gum,"A natural polysaccharide extracted from guar beans, used as a thickener and stabilizer in food products.",1
+19,β-casein,"A milk protein with emulsifying properties, used in food and pharmaceutical applications.",2
+20,κ-casein,"A milk protein that stabilizes casein micelles, used in cheese production.",2
+21,s2-casein,"A variant of casein protein found in milk, contributing to its nutritional value.",2
+22,s1-casein,"A major casein protein in milk, important for its nutritional and functional properties.",2
+23,glycerol,"A sugar alcohol used as a humectant, solvent, and sweetener in food and pharmaceuticals.",4
+24,citric acid,A natural organic acid used as a preservative and flavoring agent in food and beverages.,4
+25,tween 20,A non-ionic surfactant used as an emulsifier in food and pharmaceutical applications.,4
+26,tween 80,"An emulsifier used in food, pharmaceuticals, and cosmetics for stabilizing oil-water mixtures.",4
+27,tea seed oil,"A plant oil extracted from tea seeds, known for its high antioxidant content.",3
+28,thyme oil,"An essential oil extracted from thyme, used for its antimicrobial and aromatic properties.",3
+29,lemongrass oil,"An essential oil with a citrus scent, used in aromatherapy and as a natural preservative.",3
+30,lemon essential oil,"An oil extracted from lemon peel, used for its refreshing scent and antibacterial properties.",3
+31,tea tree essential oil,"An essential oil known for its strong antimicrobial properties, used in skincare and cleaning products.",3
+32,oregano essential oil,"An essential oil with potent antimicrobial properties, used in food preservation and health products.",3
+33,citrus essential oil,"An oil derived from citrus fruits, valued for its fresh aroma and antioxidant properties.",3
+34,cinnamon oil,"An oil extracted from cinnamon bark, used for its warm aroma and antimicrobial properties.",3
+35,methylcellulose,A chemical compound used as a thickener and emulsifier in food and pharmaceuticals.,4
+36,paraffin wax,A wax used as a coating for food preservation and in industrial applications.,4
+37,acetoglycerid,A compound used as an emulsifier and stabilizer in food products.,4
+38,shellic resin,A natural resin used as a coating agent in food and pharmaceuticals.,4
+39,sorbitol,A sugar alcohol used as a sweetener and humectant in food and cosmetics.,4
+40,olive oil,"A plant oil extracted from olives, used in cooking and cosmetics for its health benefits.",3
+41,gelatin,"A protein derived from collagen, used as a gelling agent in food and pharmaceuticals.",2
+42,konjak glucomannan,"A water-soluble polysaccharide extracted from konjac root, used as a thickener and dietary fiber.",1
+43,pectin,"A polysaccharide found in fruits, used as a gelling agent in jams and jellies.",1
+44,trehalose,"A disaccharide sugar known for its ability to retain moisture, used in food preservation.",4
+45,hazelnut oil,"A plant oil extracted from hazelnuts, used in cooking and cosmetics for its high vitamin E content.",3
+46,rapeseed oil,"A plant oil derived from rapeseeds, used in cooking and biodiesel production.",3
+47,coconut oil,"A versatile oil extracted from coconuts, used in cooking, cosmetics, and as a natural preservative.",3
+48,sodium alginate,"A sodium salt of alginic acid, used as a gelling agent and stabilizer in food.",1
+49,canola oil,"A plant oil derived from canola seeds, known for its low saturated fat content.",3
+50,alulose,"A low-calorie sweetener naturally found in fruits, used as a sugar substitute in food.",4
+51,zein nanoparticles,"Nanoparticles derived from zein protein, used for encapsulation and controlled release in food.",2
+52,polyvinyl alcohol,A synthetic polymer used in food coatings and packaging for its film-forming properties.,4
+53,coconut shell extract,"An extract derived from coconut shells, used for its antioxidant properties.",3
+54,sepiolite clay,A natural clay mineral used in industrial applications and as an additive in coatings.,4
+55,montmorillonite,A clay mineral used in nanocomposites and as an additive in food packaging.,4
+56,"2,2-diphenyl-1-picrylhydrazyl-hydrate",A chemical compound used in antioxidant testing and research.,4
+57,methanol,A simple alcohol used as a solvent in chemical applications.,4
+58,origanum essential oil,"An oil extracted from oregano, known for its strong antimicrobial and antioxidant properties.",3
+59,hinokitiol,"A natural compound derived from trees, used for its antimicrobial and preservative properties.",4
+60,limonene,"A citrus-scented compound found in citrus peel, used as a flavoring and cleaning agent.",4
+61,basil essential oil,"An essential oil extracted from basil leaves, used for its antimicrobial and aromatic properties.",3
+62,clove oil,"An essential oil known for its strong aroma and antimicrobial properties, used in food and dental care.",3
+63,jicama starch,"A starch extracted from jicama root, used as a thickening agent in food products.",1
+64,agarwood,A resinous heartwood used for its aromatic properties in perfumes and incense.,3
+65,aetoxylon bouya essential oil,"An essential oil derived from Aetoxylon tree, used for its distinctive aroma.",3
+66,calcium orioinate,A calcium salt used in food preservation and as a firming agent.,4
+67,span 80,A surfactant used as an emulsifier in food and cosmetic products.,4
+68,"2,2,6,6-tetramethylpiperidine-1-oxyl",A stable free radical compound used in chemical and antioxidant research.,4
+69,nanofibrillated cellulose,A nanoscale cellulose material used as a reinforcement in composites and coatings.,1
+70,β-carotene,"A pigment and antioxidant found in plants, used as a natural food colorant.",4
+71,hydroxypropyl cellulose,A cellulose derivative used as a thickener and stabilizer in food and pharmaceuticals.,4
+72,sandalwood essential oil,"An oil extracted from sandalwood, known for its calming aroma and skin-care properties.",3
+73,peppermint essential oil,"An essential oil with a cooling sensation, used in food, cosmetics, and aromatherapy.",3
+74,1-methylcyclopropene,A synthetic compound used to delay fruit ripening and extend shelf life.,4
+75,cajuput essential oil,"An essential oil extracted from cajuput leaves, used for its antiseptic properties.",3
+76,sunflower oil,"A plant oil derived from sunflower seeds, used in cooking and cosmetics.",3
+77,carboxy-methyl cellulose,A cellulose derivative used as a thickener and stabilizer in food and pharmaceuticals.,4
+78,chitosan-zinc acid,"A biopolymer composite with antimicrobial properties, used in coatings and packaging.",1
+79,"2,3-epoxypropyltrimethyl ammonium chloride",A chemical compound used in biopolymer modification for improved properties.,4
+80,beeswax,"A natural wax produced by honeybees, used in food coatings and cosmetics.",3
+81,α-pinene,"A terpene with a pine-like aroma, used in fragrances and as an antimicrobial agent.",4
+82,curcumin,"A natural compound found in turmeric, known for its antioxidant and anti-inflammatory properties.",4
+83,catechin,"A type of flavonoid with antioxidant properties, found in tea and cocoa.",4
+84,resveratrol,"A polyphenolic compound found in grapes and berries, known for its antioxidant properties.",4
+85,gallic acid,"An organic acid found in plants, used for its antioxidant and antimicrobial effects.",4
+86,chlorogenic acid,"A polyphenol found in coffee and fruits, used for its antioxidant properties.",4
+87,chitosan nanoparticles,"Nanoparticles derived from chitosan, used for their antimicrobial and biocompatible properties.",1
+88,sodium tripolyphosphate pentabasic,A sodium phosphate compound used as a food additive and preservative.,4
+89,ferulago augulata essential oil,"An essential oil with antioxidant and antimicrobial properties, derived from Ferulago augulata.",3
+90,thyme volatile oil,"An essential oil with a strong antimicrobial profile, used in food preservation.",3
+91,chitosan oligosaccharide,"A low molecular weight derivative of chitosan, used for its antimicrobial properties.",1
+92,kojic acid,A compound used in cosmetics for its skin-lightening and antimicrobial properties.,4
+93,clove essential oil,"An oil derived from clove buds, known for its strong aroma and antimicrobial effects.",3
+94,caffeic acid,"A phenolic compound found in plants, used for its antioxidant properties.",4
+95,chlorogenic acid,"A natural compound with antioxidant properties, found in coffee and certain fruits.",4
+96,ascorbic acid,"Also known as vitamin C, used as an antioxidant and preservative in food.",4
+97,hydrogen peroxide,A chemical compound used as a bleaching agent and disinfectant.,4
+98,β-cyclodextrin,A cyclic oligosaccharide used for encapsulating flavors and active compounds in food.,1
+99,lauric acid,"A saturated fatty acid found in coconut oil, used for its antimicrobial properties.",3
+100,valeriana officinalis essential oil,"An essential oil with a calming effect, derived from valerian root.",3
+101,glutathione,"A tripeptide with antioxidant properties, used in health supplements and skincare.",4
+102,malic acid,"An organic acid found in fruits, used as a flavor enhancer in food.",4
+103,oxalic acid,"An organic acid found in plants, used in food and cleaning applications.",4
+104,chrysanthemum morifolium essential oil,"An essential oil with calming properties, derived from chrysanthemum flowers.",3
+105,calcium lactate,A calcium salt used as a food additive and firming agent in food preservation.,4
+106,acorn starch,"A starch extracted from acorns, used as a thickener in traditional dishes.",1
+107,eugenol,"A compound found in clove oil, used for its aromatic and antimicrobial properties.",4
+108,sodium tripolyphosphate,A compound used as a food preservative and texturizer.,4
+109,diethylaminoethyl-chitosan,A modified chitosan used for enhanced antimicrobial and biocompatibility properties.,1
+110,glutenin,"A protein found in wheat, responsible for dough elasticity and strength.",2
+111,galangal essential oil,"An essential oil extracted from galangal root, used for its antimicrobial properties.",3
+112,sandalwood oil,An essential oil known for its aromatic and skin-soothing properties.,3
+113,chia seed mucilage,"A gel-like substance derived from chia seeds, used as a stabilizer and thickener.",1
+114,bacterial cellulose nanofiber,"Nanofibers derived from bacterial cellulose, used for their strength and biodegradability.",1
+115,bagasse cellulose nanocrystal,"Nanocrystals derived from sugarcane bagasse, used in nanocomposites and packaging.",1
+116,xylooligosaccharides,"A prebiotic fiber derived from hemicellulose, used for gut health.",1
+117,selenium,An essential trace element used in health supplements for its antioxidant properties.,4
+118,liposome-cellulose nanofiber,A composite material used for drug delivery and controlled release applications.,1
+119,polycaprolactone,A biodegradable polyester used in biomedical and packaging applications.,4
+120,titanium dioxide,A white pigment used as a colorant in food and cosmetics.,4
+121,rosemary essential oil,An essential oil used for its aromatic and antioxidant properties.,3
+122,stearic acid,A saturated fatty acid used in food and cosmetics.,3
+123,lecithin,A natural emulsifier used in food and pharmaceuticals.,4
+124,palmitic acid,A saturated fatty acid used in food and industrial applications.,3
+125,oleic acid,"A monounsaturated fatty acid found in oils like olive oil, used for health benefits.",3
+126,linoleic acid,"An essential fatty acid found in vegetable oils, important for human nutrition.",3
+127,diacetyl tartrate monoglyceride,An emulsifier used in food production to improve texture and stability.,4
+128,succinic acid monoglyceride,An emulsifier and stabilizer used in food and pharmaceutical applications.,4
+129,lavender essential oil,An essential oil known for its calming scent and antimicrobial properties.,3
+130,geranium essential oil,An essential oil used for its floral aroma and skin benefits.,3
+131,chamomile essential oil,"An essential oil derived from chamomile flowers, used for its calming properties.",3
+132,neroli essential oil,"An essential oil extracted from orange blossoms, valued for its floral fragrance.",3
+133,sweet orange essential oil,"An essential oil with a sweet citrus aroma, used in food and cosmetics.",3
+134,grapefruit essential oil,"An essential oil with a fresh citrus scent, used for its aromatic properties.",3
+135,bergamot essential oil,"An essential oil extracted from bergamot oranges, used in aromatherapy and flavoring.",3
+136,melissa essential oil,An essential oil known for its calming and uplifting properties.,3
+137,eucalyptus essential oil,"An essential oil with a fresh, minty scent, used for its antimicrobial properties.",3
+138,clay sage essential oil,An essential oil known for its herbaceous aroma and calming effects.,3
+139,sweet marjoram essential oil,"An essential oil with a warm, woody scent, used in aromatherapy.",3
+140,unscented coconut oil,"A refined form of coconut oil, used in cooking and cosmetics.",3
+141,medium chain fatty acid oil,"MCT oil, known for its quick energy release and health benefits.",3
+142,calcium propionate,A food preservative used to inhibit mold and bacterial growth in baked goods.,4
+143,gellan gum,"A natural gelling agent derived from bacteria, used in food and industrial applications.",1
+144,control,Material used as a baseline in experiments.,4
+145,grape pomace extract (GPE),"A byproduct of winemaking, rich in polyphenols with antioxidant properties.",4
+146,wine lees extract (WLE),"A byproduct of wine fermentation, containing antioxidants and nutrients.",4
+147,xanthan gum,A polysaccharide used as a thickener and stabilizer in food products.,1
+148,sodium nitroprusside (SNP),A chemical compound used as a nitric oxide donor in research.,4
+149,mentha piperita L. essential oil,"Peppermint essential oil, valued for its cooling effect and aromatic properties.",3
+150,glyceryl palmitostearate,A fatty acid ester used as an emulsifier in food and cosmetics.,3
+151,polysorbate 80,An emulsifier used to stabilize oil-water mixtures in food and pharmaceuticals.,4
+152,zinc oxide nanoparticles,ZnO nanoparticles used in antibacterial coatings and food packaging.,4
+153,hawthorn leaf extract,"An extract from hawthorn leaves, rich in antioxidants and used in herbal remedies.",4
+154,pomegranate seed oil,"An oil rich in antioxidants and fatty acids, used in cosmetics and health products.",3
+155,plasma-activated hydrogen peroxide solution,A sterilization solution enhanced with reactive plasma species.,4
+156,silver-coated silica nanoparticles,"Nanoparticles with a silver coating, used for their antimicrobial properties.",4
+157,mandarin essential oil,"An essential oil extracted from mandarin peel, known for its sweet aroma.",3
+158,orange peel essential oil,"An oil extracted from orange peel, used for its fragrance and antibacterial properties.",3
+159,carnauba wax,"A natural wax from the leaves of the carnauba palm, used in coatings and cosmetics.",3
+160,ammonia,A chemical compound used in food and industrial applications.,4
+161,triethanolamine,A chemical used as a pH adjuster in cosmetics and industrial products.,4
+162,none,No specific material assigned.,4
+163,none,No specific material assigned.,4
+164,chlorine,A chemical element used in disinfection and water treatment.,4
+165,ocimum tenuiflorum leaf,"Leaves from holy basil, used for their medicinal and aromatic properties.",3
+166,ylang-ylang essential oil,"An essential oil with a floral aroma, used in perfumes and aromatherapy.",3
+167,ylang-ylang essential oil,"An essential oil with a floral aroma, used in perfumes and aromatherapy.",3
+168,opuntia ficus-indica mucilage,"A mucilage derived from prickly pear cactus, used as a thickener and stabilizer.",1
+169,chitosan,"A biopolymer derived from chitin, used for its antimicrobial and film-forming properties.",1
+170,carboxymethyl cellulose,A cellulose derivative used as a thickener and stabilizer in food and cosmetics.,4
+171,flaxseed mucilage (Mu),"A mucilage derived from flaxseeds, used for its thickening and film-forming properties.",1
+172,postbiotics,"Metabolic byproducts of probiotics, used for their health benefits.",4
+173,gum arabic,"A natural gum derived from acacia trees, used as a stabilizer and emulsifier.",1
+174,carrageenan,"A polysaccharide extracted from red algae, used for its gelling properties.",1
+175,peach gum,"A natural polysaccharide with film-forming and antioxidant properties, secreted by peach trees.",1
+176,lactobacillus paracasei (LPC),A probiotic strain used for gut health and food preservation.,4
+177,lactobacillus rhamnosus (LGG),A probiotic strain known for its digestive health benefits.,4
+178,lactobacillus plantarum (LP),A probiotic strain with antimicrobial and digestive health properties.,4
+179,locust bean gum,"A polysaccharide derived from carob seeds, used as a thickener and stabilizer.",1
+180,pracaxi nut oil,"An oil rich in behenic acid, used for hair care and anti-aging applications.",3
+181,extra virgin olive oil,"High-quality olive oil extracted without heating, known for its health benefits.",3
+182,postbiotics,"Metabolic byproducts of probiotics, used for their health benefits.",4
+183,hyaluronic acid,A biopolymer used for its hydrating and skin-plumping properties.,4
+184,gellan gum (GG),A polysaccharide used as a gelling agent in food and biotechnology.,1
+185,methyl red,A pH indicator dye used in microbiology and chemistry.,4
+186,bromothymol blue (BTB),A pH indicator dye used in laboratory applications.,4
+187,tannin acid,A polyphenol used in leather tanning and as astringent in medicine.,4
+188,silk fibroin,"A protein derived from silk, used for its strength and biocompatibility.",2
+189,silk protease inhibitors,"Proteins that inhibit proteases, used in biomedical applications.",2
+190,thyme essential oil (TEO),"An essential oil with antimicrobial and aromatic properties, derived from thyme.",3
+191,aspergillus flavus,"A fungus known for producing aflatoxins, which can contaminate food.",4
+192,LCNF,Lignocellulose nanofibers used in biocomposites and packaging.,1
+193,raspberry extract,An extract rich in antioxidants and phenolic compounds.,4
+194,pullulan,A water-soluble polysaccharide used for its film-forming and adhesive properties.,1
+195,acetic anhydride,A chemical used as an esterifying agent in industrial applications.,4
+196,propionic anhydride,A compound used for modifying polysaccharides to improve barrier properties.,4
+197,butyric anhydride,A chemical used for esterification in industrial and food applications.,4
+198,calcium gluconate,A calcium supplement used to enhance firmness in fruits and vegetables.,4
+199,acetic acid,A natural preservative used for its antimicrobial properties.,4
+200,calcium chloride,A compound used to maintain firmness in food and as a preservative.,4
+201,lactic acid,An organic acid used in food preservation and as a flavoring agent.,4
+202,fructose,"A natural sugar found in fruits, used as a sweetener.",4
+203,amylose,"A linear polysaccharide component of starch, used for its film-forming properties.",1
+204,low methoxyl pectin,A pectin used for low-sugar and low-acid gelling.,1
+205,persian gum,A natural gum used for its stabilizing and emulsifying properties.,1
+206,tragacanth gum,A natural gum used as a thickener and emulsifier in food and pharmaceuticals.,1
+207,kiwi seed essential oil,"An oil extracted from kiwi seeds, used for its antioxidant properties.",3
+208,sodium carboxymethyl cellulose,A cellulose derivative used as a thickener and stabilizer.,4
+209,new material3,Material for experimental use.,4
+210,nano selenium,A nanoscale selenium material used in health and industrial applications.,4
+211,yam bean starch,"A starch extracted from yam beans, used in food products.",1
+212,agarwood bouya essential oil,An essential oil known for its aromatic properties.,3
+213,reuterin,"A natural compound produced by Lactobacillus reuteri, used as a preservative.",4
+214,carotenoprotein,"A protein associated with carotenoids, used for its functional properties.",2
+215,botrytis cinerea,A fungus known for causing gray mold in fruits.,4
+216,starch,A carbohydrate polymer used as a thickener and stabilizer in food.,1
+217,sodium hydroxide,A strong base used in cleaning and industrial processes.,4
+218,tocopheryl acetate,A form of vitamin E used in skincare and health supplements.,4
+219,cross linked maize starch,cross linked maize starch,1
+220,grape juice,grape juice,1
+221,grape seed extract,"OC1C(OC2C(C3=CC=C(O)C(O)=C3)OC4=CC(O)=CC(O)=C4C2)(C5=CC=C(O)C(O)=C5)OC6=CC(O)=CC(O)=C6C1O
+",4
+222,quinoa protein,quinoa protein,2
+223,chitosan(5kDa),Chitosan with a molecular weight of 5000,1
+224,chitosan(19kDa),Chitosan with a molecular weight of 19000,1
+225,chitosan(61kDa),Chitosan with a molecular weight of 61000,1
+226,cinnamon essential oil,cinnamon essential oil,3
+227,ethanol,ethanol,4
+228,carboxycellulose nanocrystal,carboxycellucose nanocrystal,1
+229,zinic oxide (I),zinic oxide typeⅠ,4
+230,zinic oxide (II),zinic oxide Ⅱ,4
+231,salicylic acid,salicylic acid,4
+232,tea polyphenols,tea polyphenols,4
+233,horseradish peroxidase(HRP),horseradish peroxidase,2
+234,polyethelene glycol (PEG) 800,Polyethylene glycol (PEG) 800,1
+235,phosphate buffer,i,4
+236,cold-pressed sesame oil,CAS番号: 8008-74-0。オレイン酸とリノール酸の比率が1:1で、総含有量80%。セサモール、セサミン、セサモリンなどの不けん化物を含み、抗菌・抗酸化特性を持つ。高いビタミンE含有量により酸化安定性が高い,4
+237,L-Cysteine,"cid: 5862
+含硫アミノ酸の一種。CAS: 52-90-4。分子式: C3H7NO2S（分子量: 121.16）。SH基を持ち還元性を有する。タンパク質に広く分布し特にケラチンに多い2710",4
+238,ethyl alcohol,"エチルアルコール
+123093
+CMCコーティング溶液の調製に使用（水との比率3:1）。乾燥時間を短縮し、透明で光沢のあるメチルセルロースコーティングを得るために使用される1。",4
+239,Phenolphthalein solution,a,4
+240,ethyl ether,a,4
+241,hydrochloric acid,a,4
+242,Green Tea Essential Oil,a,4
+243,Starch Nanocrystals,a,4
+244,Potassium hydroxide,a,4
+245,Carvacrol,a,4
+246,Zein,a,4
+247,Polyethylene Glycol 6,a,4
+248,Natamycin,a,4
+249,Epigallocatechin gallate,a,4
+250,Water,a,4
+251,microcrystalline cellulose,a,4
+252,absorbent cotton,a,4
+253,silver nitrate,a,4
+254,urea,a,4
+255,Anhydrous sodium sulfate,a,4
+256,Asian formulation,a,4
+257,Mediterranean formulation,a,4
+258,Glacial acetic acid,a,4
+259,Tyrosine,a,4
+260,Lactoferrin,a,4
+261,Glycidyltrimethylammonium Chloride,a,4
+262,Quaternized Chitosan,a,4
+263,Dihydroxybenzaldehyde,a,4
+264,Alfalfa cellulose residue,a,4
+265,zinc chloride,a,4
+266,2-Methylimidazole,a,4
+267,Zinc Nitrate Hexahydrate,a,4
+268,Graphene oxide,a,4
+269,Sodium citrate,a,4
+270,sodium carbonate,a,4
+271,Sodium chlorite,a,4
+272,Allyl isothiocyanate,a,4
+273,Calcium Lactate Gluconate,a,4
+274,vitamin e,a,4
+275,acetylation Monoglycerides,a,4
+276,olive phenolic compounds,a,4
+277,Zinc Nitrate,a,4
+278,carboxymethyl cellulose,a,4
+279,Carboxylated Nanoparticles,a,4
+280,α-Cyclodextrin,a,4
+281,Sodium Chlorate Tablets,a,4
+282,Carboxymethyl chitosan,a,4
+283,inulin,a,4
+284,Cinnamaldehyde,a,4
+285,N-Succinyl Chitosan,a,4
+286,Carrageenan oligosaccharides,a,4
+287,cellulose,a,4
+288,hemicellulose,a,4
+289,lignin,a,4
+290,protein,a,4
+291,extract,a,4
+292,xylan,a,4
+293,Mannan,a,4
+294,olive leaf extract,a,4
+295,olive leaf extract　pomace,a,4
+296,Pomegranate Peel Extract,a,4
+297,glycerin monostearate,a,4
+298,glycerol General Merchandise Store,a,4
+299,stearic acid General Merchandise Store,a,4
+300,Total Glycerol,a,4
+301,gluten,a,4
+302,ammonium hydroxide,a,4
+303,(3-Chloro-2-hydroxypropyl)trimethylammonium Chloride,a,4
+304,Perilla frutescens L. essential oil,a,4
+305,Sodium starch octenyl succinate,a,4
+306,Hydroxypropyl methylcellulose,a,4
+307,choline chloride,a,4
+308,1-Ethyl-3-methylimidazolium Chloride,a,4
+309,1-Butyl-3-methylpyridinium Bromide,a,4
+310,Astaxanthin,a,4
+311,d-Limonene,a,4
+312,"10,12-Pentacosadiynoic Acid",a,4
+313,Pirene,a,4
+314,gamma-Cyclodextrin-based metal-organic framework（CD-MOF）,a,4
+315,Curcumin included　γ-CD-MOF,a,4
+316,Calcium chloride,a,4
+317,Citrus peel extract,a,4
+318,Carboxymethyl cellulose sodium salt,a,4
+319,Sodium benzoate,a,4
+320,Maleic Anhydride,a,4
+321,low density polyethylene,a,4
+322,polyamide 6,a,4
+323,silica,a,4
+324,clay,a,4
+325,Polyolefin Elastomer,a,4
+326,Waxy corn starch,a,4
+327,Thymol,a,4
+328,Tween 60,a,4
+329,Roselle extract,a,4
+330,Hydroxypropyl trimethyl ammonium chloride chitosan,a,4
+331,Tea tree oil,a,4
+332,Amphiphilic : Hydroxypropyl trimethyl ammonium chloride chitosan,a,4
+333,low molecular weight chitosan,a,4
+334,Sodium hypochlorite,a,4
+335,Choline chloride,a,4
+336,Tomato powder,a,4
+337,derived from corn　Fibregum,a,4
+338,derived from corn　Fibregum,a,4
+339,Levulinic Acid,a,4
+340,Allyl isothiocyanate,a,4
+341,Guar gum,a,4
+342,Candelilla wax,a,4
+343,Hydroxypropyl-β-cyclodextrin complex,a,4
+344,2-Hydroxypropyl-β-cyclodextrin complex,a,4
+345,Potassium Chloride,a,4
+346,benzalkonium chloride,a,4
+347,Potassium Sorbate,a,4
+348,Myrtle Essential Oil,a,4
+349,nanocellulose,a,4
+350,polyethylene glycol,a,4
+351,2-Hydroxypropyl-β-cyclodextrin,a,4
+352,Ethyl-Nα-lauroyl-L-arginine hydrochloride,a,4
+353,Maltodextrin,a,4
+354,Medium Chain Triglycerides,a,4
+355,montmorillonite,"品質水準
+100
+
+フォーム
+powder
+
+表面積
+~330 m2/g
+
+pH
+2.8-3.8
+
+SMILES記法
+[Si](=O)=O.[Si](=O)=O.[Si](=O)=O.[Si](=O)=O.[Al+3].[Al+3].[O-2].[O-2].[O-2].O
+
+InChI
+1S/2Al.4O2Si.H2O.3O/c;;4*1-3-2;;;;/h;;;;;;1H2;;;/q2*+3;;;;;;3*-2
+
+InChI Key
+GUJOJGAPFQRJSV-UHFFFAOYSA-N",4
+356,ODEC,ODEC is rich in uronic acid,1
+357,PSPA,PSPA,4
+358,AgNPs,Antibacterial activity,4
+359,PEG-600,25322-68-3,4
+360,Sodium chloride,7647-14-5,4
+361,carbon source,"グルコース
+50-99-7",4
+362,RmA,RmA,4
+363,corn protein,"80%濃度の無水エタノールに溶解
+アミノ酸名,化学式,SMILES,割合（mol%）
+ロイシン (Leu),C6H13NO2,CC(C)CC(C(=O)O)N,20
+プロリン (Pro),C5H9NO2,O=C(O)C1CCCN1,10
+アラニン (Ala),C3H7NO2,CC(C(=O)O)N,9
+フェニルアラニン (Phe),C9H11NO2,NC(CC1=CC=CC=C1)C(=O)O,6
+グルタミン酸 (Glu),C5H9NO4,C(CC(=O)O)C(C(=O)O)N,5
+イソロイシン (Ile),C6H13NO2,CC[C@H](C)[C@@H](C(=O)O)N,5
+バリン (Val),C5H11NO2,CC(C)C(C(=O)O)N,5
+セリン (Ser),C3H7NO3,NCC(C(=O)O)O,4
+グリシン (Gly),C2H5NO2,NCC(=O)O,4
+チロシン (Tyr),C9H11NO3,NC(CC1=CC=C(O)C=C1)C(=O)O,3",2
+364,TG enzyme,"アミノ酸名,化学式,SMILES
+グルタミン（Glutamine）,C5H10N2O3,NC(CC(=O)O)CCC(=O)N
+リシン（Lysine）,C6H14N2O2,NCCCC[C@H](C(=O)O)N",2
+365,chlorophyll sodium salt,CCC1=C(C2=NC1=CC3=C(C(=C([N-]3)C(=C4C(C(C(=N4)C=C5C(=C(C(=C2)[N-]5)C=C)C)C)CCC(=O)[O-])CC(=O)[O-])C(=O)[O-])C)C.[Na+].[Na+].[Na+].[Cu+2],4
+366,total sugar,"| 単糖名 (英語名)       | 構造式 (SMILES)                                  |
+| --------------- | --------------------------------------------- |
+| **D-Glucose**   | `OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O`  |
+| **D-Galactose** | `OC[C@H]1O[C@@H](O)[C@H](O)[C@H](O)[C@H]1O`   |
+| **D-Mannose**   | `OC[C@H]1O[C@H](O)[C@@H](O)[C@H](O)[C@H]1O`   |
+| **Arabinose**   | `OC[C@H]1O[C@H](O)[C@@H](O)[C@H]1O`           |
+| **Xylose**      | `OC[C@H]1O[C@H](O)[C@H](O)[C@H]1O`            |
+| **Rhamnose**    | `OC[C@H]1O[C@H](O)[C@@H](O)[C@H](CH3)[C@H]1O` |",1
+367,uronic acid,OC[C@H]1O[C@@H](O)[C@H](O)[C@H](COOH)[C@H]1O,1
+368,ciral,CC(=C)CCC=C(C)C=O,4
+369,ε-Poly-L-lysine,CC(C(=O)O)NC(CCCCN)C(=O)O,2
+370,Rhamnolipid,CC(C)C1C(C(C(C(O1)C(=O)OCCCCC(=O)O)O)O)O,3
+371,garlic essential oil,"物質名,SMILES構造式,分子量 (g/mol)
+アリシン (Allicin),CS(=O)SC=C,162.27
+ジアリルジスルフィド (DADS),C=CCSSCC=C,178.32
+ジアリルトリスルフィド (DATS),C=CCSSSCC=C,210.39
+アジョエン (Ajoene),C=CCSP(=O)(OCC=C)SC=C,234.34",4
+372,xyloglucan,"OC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O)[C@H](CO)O2)[C@H](O)[C@@H](O)[C@H]1O,504.44",1
+373,Borassus flabellifer seed coat extract（BFE）,"クエルセチン（Flavonoid）	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	302.24
+エピガロカテキン（Tannin類）	C1[C@@H]([C@H](O)[C@@H](O1)OC2=CC(=C(C(=C2)O)O)O)OC3=CC(=C(C(=C3)O)O)O	458.4
+リモネン（Terpenoid）	CC1=CCC(CC1)C(=C)C	136.23",4
+374,gallic acid,C1=C(C=C(C(=C1O)O)O)C(=O)O,4
+375,chitosan (DD81),"単位名	組成比	SMILES記法	分子式
+グルコサミン単位	81%	C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)N)O)O)O	C6H13NO5
+N-アセチルグルコサミン単位	19%	CC(=O)N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O	C8H15NO6",1
+376,chitosan(DD88.1),"単位名	組成比	SMILES記法	分子式
+グルコサミン単位	88.1%	C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)N)O)O)O	C6H13NO5
+N-アセチルグルコサミン単位	11.9%	CC(=O)N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O	C8H15NO6",1
+377,chitosan (DD95.2),"単位名	組成比	SMILES記法	分子式
+グルコサミン単位	95.2%	C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)N)O)O)O	C6H13NO5
+N-アセチルグルコサミン単位	4.8%	CC(=O)N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O	C8H15NO6",1
+378,soy protein isolate,"Light yellow powder
+InChI:InChI=1S/C13H10N2/c14-10-12(11-6-2-1-3-7-11)13-8-4-5-9-15-13/h1-9,12H
+InChIKey:CAXNYFPECZCGFK-UHFFFAOYSA-N
+SMILES:C(#N)C(C1=CC=CC=C1)C1=NC=CC=C1",2
+379,punicalagin,C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C4C5=C3C(=O)OC6=C(C(=C(C7=C(C(=C(C=C7C(=O)O1)O)O)O)C(=C56)C(=O)O4)O)O)O)O)O)O)O)C8C(OC(=O)C9=CC(=C(C(=C9C1=C(C(=C(C=C1C(=O)O8)O)O)O)O)O)O)C=O)O,4
+380,Lemon Peel Extract (LPE),none,4
+381,Native Konjac Flour,"OC[C@H]1O[C@H](O)[C@@H](O)[C@H](O)[C@H]1O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O
+これは「グルコース-マンノース」の1→4結合を基本とした二糖構造のSMILESです",1
+382,Konjac Glucomannan,OC[C@H]1O[C@H](O)[C@@H](O)[C@H](O)[C@H]1O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O,1
+383,chitosan(C),034-22922,1
+384,chitosan(S),9012-76-4,1
+385,Water Caltrop Pericarp Extract(WCPE),"没食子酸 (Gallic acid): OC(=O)C1=CC(O)=C(O)C(O)=C1
+ケルセチン (Quercetin): Oc1ccc(cc1O)C2=C(O)c3c(O)cc(O)cc3OC2=O
+エラグ酸 (Ellagic acid): OC1=C(O)C2=C3C(=C1)C(=O)OC1=C3C(=CC(O)=C1O)C(=O)O2 |",1
+386,pea protein,"基本ペプチド骨格のSMILES:
+N[C@@H](R1)C(=O)N[C@@H](R2)C(=O)N[C@@H](R3)C(=O)O
+
+簡略化された繰り返し単位:
+*-NH-CH(R)-CO-*",2
+387,DNA nanoparticles,"アデニン (Adenine, A):
+Nc1ncnc2[nH]cnc12
+
+グアニン (Guanine, G):
+Nc1nc2[nH]cnc2c(=O)[nH]1
+
+シトシン (Cytosine, C):
+Nc1ccnc(=O)[nH]1
+
+チミン (Thymine, T):
+Cc1c[nH]c(=O)[nH]c1=O
+
+デオキシアデノシン一リン酸 (dAMP):
+Nc1ncnc2[nH]cnc12.[C@H]1([C@H]([C@@H](CO)O1)O)n1cnc2c(N)ncnc21.OP(=O)(O)O
+
+簡略化された DNA 骨格構造:
+*-O-P(=O)(O)-O-C-*",4
+388,rice protein,"アミノ酸	分子式	SMILES構造式
+Leucine (Leu)	C6H13NO2	CCCC(C)CC(N)C(=O)O
+Proline (Pro)	C5H9NO2	O=C(O)C1CCCN1
+Alanine (Ala)	C3H7NO2	CC(N)C(=O)O
+Phenylalanine (Phe)	C9H11NO2	NC(Cc1ccccc1)C(=O)O
+Glutamic acid (Glu)	C5H9NO4	NC(CCC(=O)O)C(=O)O
+Isoleucine (Ile)	C6H13NO2	CCC(C)C(N)C(=O)O
+Valine (Val)	C5H11NO2	CC(C)C(N)C(=O)O
+Serine (Ser)	C3H7NO3	NC(CO)C(=O)O
+Glycine (Gly)	C2H5NO2	NCC(=O)O
+Tyrosine (Tyr)	C9H11NO3	NC(Cc1ccc(O)cc1)C(=O)O",2
+389,casein,"アミノ酸	分子式	SMILES構造式
+Proline (Pro)	C5H9NO2	O=C(O)C1CCCN1
+Serine (Ser)	C3H7NO3	NC(CO)C(=O)O
+Leucine (Leu)	C6H13NO2	CC(C)CC(N)C(=O)O
+Lysine (Lys)	C6H14N2O2	NCCCC(N)C(=O)O
+Glutamine (Gln)	C5H10N2O3	NC(CCC(=O)N)C(=O)O",2
+390,Cress seed (CS) mucilage extraction,"D-グルコース	中性多糖の主成分	OC[C@H]1O[C@@H](O)[C@@H](O)[C@H](O)[C@H]1O
+D-ガラクツロン酸	酸性多糖の主成分	OC[C@H]1O[C@@H](O)[C@@H](O)C(=O)O[C@H]1O
+L-ラムノース	中性多糖の副成分	CC1OC(O)[C@H](O)[C@H](O)[C@H]1O
+アラビノース	中性多糖の副成分	OC[C@H]1O[C@H](O)[C@@H](O)[C@H](O)[C@H]1O",1
+391,acetylated monoglyceride,CC(=O)OCC(CO)O,3
+392,dl-α-tocopheryl acetate,null,3
+393,glycerol monostearate,(,3
+394,selenium acid,.,4
+395,Sodium trimetaphosphate,特になし,4
+396,Jackfruit seed starch,a,1
+397,sesame oil,あ,4
+398,pectin(L200),"表1. CSおよびペクチンのエステル化度、アミド化度、重量平均分子量、および数平均分子量の値。
+DE（％）	DA（％）	分子量（kDa）	M n (kDa)	M w / M n
+CS	−	−	619.5	514	1.21
+L200	26.9	21.9	87.46	16.4	5.33
+L201Y	26.5	23.7	369.84	27.1	13.64
+H183	68.9	−	873.34	54.1	16.15
+H182	69.5	−	1243.64	53.3	23.31",1
+399,pectin(L201Y),"表1. CSおよびペクチンのエステル化度、アミド化度、重量平均分子量、および数平均分子量の値。
+DE（％）	DA（％）	分子量（kDa）	M n (kDa)	M w / M n
+CS	−	−	619.5	514	1.21
+L200	26.9	21.9	87.46	16.4	5.33
+L201Y	26.5	23.7	369.84	27.1	13.64
+H183	68.9	−	873.34	54.1	16.15
+H182	69.5	−	1243.64	53.3	23.31",1
+400,pectin(H183),"表1. CSおよびペクチンのエステル化度、アミド化度、重量平均分子量、および数平均分子量の値。
+DE（％）	DA（％）	分子量（kDa）	M n (kDa)	M w / M n
+CS	−	−	619.5	514	1.21
+L200	26.9	21.9	87.46	16.4	5.33
+L201Y	26.5	23.7	369.84	27.1	13.64
+H183	68.9	−	873.34	54.1	16.15
+H182	69.5	−	1243.64	53.3	23.31",1
+401,pectin(H182),"表1. CSおよびペクチンのエステル化度、アミド化度、重量平均分子量、および数平均分子量の値。
+DE（％）	DA（％）	分子量（kDa）	M n (kDa)	M w / M n
+CS	−	−	619.5	514	1.21
+L200	26.9	21.9	87.46	16.4	5.33
+L201Y	26.5	23.7	369.84	27.1	13.64
+H183	68.9	−	873.34	54.1	16.15
+H182	69.5	−	1243.64	53.3	23.31",1
+402,curdlan,"β-1,3-グルコシド結合を介してd-グルコースから構成される直鎖構造を持つ新しいタイプの細胞外多糖類です[14]。",1
+403,camelia oil,他方では、東洋オリーブ油として知られる椿油は、主にオレイン酸、リノール酸、リノレン酸を含む不飽和脂肪酸、ペプチド、ミネラル、ビタミンが豊富。,4
+404,mulberry polypheolic extract (MPE),"表1．HPLC - MS分析によるMPE中のフェノール化合物の組成。
+
+ピーク	保持時間（分）	フェノール化合物	[M] + ( m / z )	相対含有量（％）
+1	2.37	イソラムネチン	316	3.46
+2	2.77	ケンフェロール-3-O-グルクロニド	462	4.32
+3	5.56	シアニジン-3-O-グルコシド	449	5.94
+4	13.25	シアニジン-3-O-(6-アセチル)-グルコシド	491	6.77
+5	14.07	ミリセチン-3-O-グルクロニド	494	16.43
+6	21.10	ペラルゴニジン-3-O-(6-アセチル)-グルコシド	475	33.00
+7	23.02	マルビジン-3-O-(6-アセチル)-グルコシド	531	11.05
+8	32.44	カテキン	290	19.03",4
+405,Guava Leaf Ethanolic Extracts,エタノール抽出物中の主なポリフェノールは、ルチン（0.0015 μg/mL）、イソケルシトリン（0.0291 μg/mL）、ケルセチン-3-O-β-D-キシロピラノシド（0.1290 μg/mL）、アビキュラリン（0.1225 μg/mL）、ケルシトリン（0.0818 μg/mL）、ケルセチン（0.0332 μg/mL）、およびケンフェロール（0.0050 μg/mL）であった。,4
+406,Guava Leaf Water Extracts,グアバ葉水抽出物中のフェノール化合物は、没食子酸（0.0029 μg/mL）、エラグ酸（0.0373 μg/mL）、ケルセチン-3-O-β-D-キシロピラノシド（0.0057 μg/mL）、アビキュラリン（0.0881 μg/mL）、およびケルセチン（0.0001 μg/mL）でした。,4
+407,pomelo peel flour (PPF),ブンタンの皮粉（PPF）の化学組成を分析したところ、水溶性食物繊維（ペクチン）と炭水化物（それぞれ33.2%、49.13%）が主成分であり、タンパク質（3.25%）と脂質（2.84%）も一定量含まれていることがわかった,1
+408,black soybean seed coat extract (BSSCE),組成表あり,4
+409,pomegranate flesh extract (PFE),組成あり,4
+410,chive root extract (CRE),組成あり,4
+411,banana peels extract (BPE),組成あり,4
+412,dihydromyricetin,ジヒドロミリセチン（DMY）は、 Ampelopsis grossedentataの葉の主要な生物活性成分であり、フラボノイドに属します。,4
+413,Coffee peel anthocyanin,アントシアニン,4
+414,black soybean seed coat anthocyanin,a,4
+415,propolis extract,a,4
+416,Zataria multiflora Boiss essential oil (ZEO),a,4
+417,Mentha pulegium essential oil (MEO),a,4
+418,calcium carbonate,a,3
+419,glucono-δ-lactone (GDL),a,3
+420,orange essential oil,a,4
+421,Buckwheat starch,a,1
+422,High methoxyl pectin,DE: 65–69 %,1
+423,low methoxyl pectin,DE: 30 %,1
+424,ι-carrageenan,二糖類あたり1つ（カッパ）または2つ（イオタ）のエステル硫酸基を有しています,1
+425,κ-carrageenan,二糖類あたり1つ（カッパ）または2つ（イオタ）のエステル硫酸基を有しています,1
+426,Tomato paste,SMILES見つかる？,4
+427,chitosan glycerol,chitin,4
+428,chitosanGO,chitosan+GrapheneOxide,1
+429,Pedada flour,組成なし,1
+430,delonix regia galactomannan,DRG,1
+431,Vanillin,added as preservative,4
+432,gum ghatti,a,1
+433,carboxymethyl starch,a,1
+434,λ-carrageenan,a,1
+435,green tea extract (GTE),a,4
+436,levan,a,1
+437,SHPI,サンヘンプシードタンパク質分離物（SHPI）,2
+438,Glove oil,oil,4
+439,Albizia gum (AZG),"It is constituted of galactose, arabinose, mannose, glucuronic acid, 4-O-methyl-glucuronic acid and rhamnose",1
+440,Moringa oleifera purified flavonoids (MOPF),"Flavonoids are defined as a class of phenolic compounds widely distributed in plants, known for their antioxidative properties and potential health benefits, including cancer prevention and anti-inflammatory effects. They are commonly found in a variety of fruits, vegetables, tea, and coffee.",4
+441,anthocyanin,"Anthocyanins are a type of flavonoid that serve as pigmenting agents in plants, contributing to their color and providing potential health benefits. They are known for their presence in various fruits and vegetables and exhibit antimicrobial activity.",4
+442,Cascara,“cascara” is a solid residue from coffee processing,4
+443,passion fruit peel,"Passion fruit peel extract has great potential as a natural antimicrobial agent due to its bioactive compounds such as flavonoids, alkaloids, and saponins that are effective against bacteria, fungi, and viruses. This potential can be utilized in various applications, ranging from edible food wrap to extend the shelf life of food to use in health products. In addition, utilizing extracts from passion fruit peel waste supports the principle of sustainability by utilizing waste into high-value products, reduce environmental impacts, and supporting a circular economy.",4
+444,Rutin,"Rutin is one of the most common glucosides of quercetin, also known as vitamin P. Due to its flavonoid chemical structure, rutin has important antimicrobial, chelating, and antioxidant properties, which can be used to preserve and develop foods.",4
+445,free rutin (FR),rutin without encapsulation in liposomes,4
+446,Fenugreek seed mucilage (FSM),"FSM is mainly based on polysaccharides, with a crystalline structure containing 45–60 % carbohydrates, mostly fiber, 30 % soluble, and 20 % insoluble.",4
+447,Citrus flavonoids(CF),from The Citrus peel,4
+448,Essential oils (EOs),fascinating constituents for the fabrication of active edible films,4
+449,Garden Cress Seed Extract (GRCE),The trend of utilizing garden cress extract (GRCE) for treating various diseases and mitigating the impact of chemotherapy agents is on the rise.,4
+450,moringa gum,used to improve the bonding between the linking matrix,4
+451,pine cone extract (PCE),visible in the FTIR spectra,4
+452,Tomato seed mucilage (TSM),Tomato seed mucilage (TSM) usage as a source of biodegradable films can reduce agricultural and tomato processing plant wastes and increases the product value added.,4
+453,carbon dots (CDs),to construct a bio-friendly composite film with high freshness retention properties,4
+454,Litsea cubeba essential oil (LC-EO),"a traditionally culinary spice oil in China, lending a fresh lemony and spicy aroma to dishes, is a safe, natural extract derived from plants with effective biochemical characteristics such as antimicrobial, anti-inflammatory, anticancer properties, and it has been widely utilized in food, pharmaceutical, cosmetics, and other industries",4
+455,walnut green husk polyphenols (WGHP),applied in chemical and biomedical industries as native additives and functional components,4
+456,Yellow pea protein isolate (PPI),Pea protein isolate,4
+457,micro-emulsion (MOEO),oregano essential oil (OEO),4
+458,nano-emulsion (NOEO),oregano essential oil (OEO),4
+459,purple onion peel (POPE),purple onion peel,4
+460,butterfly-pea flower extract (BFE),"a promising potential for developing smart materials, preserving, and monitoring the food quality",4
+461,Helichrysum italicum essential oil(HIEO),"obtained from the flowers and leaves of the plant has attracted attention in traditional medicine for treating wounds, asthma, inflammation, and edema",4
+462,basil seed gum (BSG),favorable physicochemical properties,4
+463,free vitamin E (FVE),vitamin E,4
+464,vitamin E liposomes (LVE),vitamin E,4
+465,vitamin E nanoliposomes (NLVE),vitamin E,4
+466,sodium silicate,fabricate PSA-SE systems,4
+467,ethylene diamine tetraacetic acid-2Na (EDTA-2Na),fabricate PSA-SE systems,4
+468,nopal cladodes,The mucilage,4
+469,propylene glycol,plasticizer,4
